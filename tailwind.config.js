@@ -9,6 +9,7 @@ export default {
       colors: {
         'light-grey': '#F4F4F4',
         'royal-blue': '#0A08A9',
+        'dark-blue': '#03082d',
         'header-blue': '#001876',
         'hover-grey': '#696565',
         'hover-light-grey': '#ACACAC'
