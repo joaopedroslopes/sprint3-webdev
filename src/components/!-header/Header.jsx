@@ -6,8 +6,8 @@ function Header() {
 
     return ( 
         <>
-            <div className="header-container z-[200] absolute flex items-center w-full px-10 py-3">
-                <div className="logo-container size-fit">
+            <div className="header-container z-[200] fixed flex items-center w-full px-10 py-4">
+                <div className="fixed logo-container size-fit">
                     <Link to="/Home">
                         <img src="../../public/logo.svg" alt="Logo da Fórmula E" className="w-44" />
                     </Link>

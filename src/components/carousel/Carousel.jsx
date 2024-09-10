@@ -17,7 +17,7 @@ function Carousel(props, {autoSlide=false, autoSlideInterval=5000}) {
     }, [])
 
     return ( 
-        <div className="relative z-[100] h-4/6 w-full overflow-hidden">
+        <div className="relative z-[100] h-screen w-full overflow-hidden">
             <div className="flex transition-transform ease-out duration-1000" style={{ transform: `translateX(-${curr * 100}%)`}}>
                 {slider.map(({ path, alt }) => (
                     <img className="brightness-[.6] w-full h-full object-cover" src={path} alt={alt} />
