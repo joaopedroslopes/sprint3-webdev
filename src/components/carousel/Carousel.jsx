@@ -46,7 +46,6 @@ function Carousel(props, {autoSlide=false, autoSlideInterval=5000}) {
                     ))}
                 </div>
             </div>
-            
         </div>
      );
 }
