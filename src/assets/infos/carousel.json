@@ -1,0 +1,26 @@
+[
+
+
+{
+    "path": "/slide-show/carro-vermelho-audi.jpg", 
+    "alt": "imagem 1"
+},
+{
+    "path": "/slide-show/carro-1.jpg", 
+    "alt": "imagem 2"
+},
+{
+    "path": "/slide-show/carro-2.jpg", 
+    "alt": "imagem 3"
+},
+{
+    "path": "/slide-show/carro-3.jpg", 
+    "alt": "imagem 4"
+},
+{
+    "path": "/slide-show/carro-4.jpg", 
+    "alt": "imagem 5"
+}
+
+
+]
