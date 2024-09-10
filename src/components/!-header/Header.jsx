@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 function Header() {
     return ( 
         <>
-            <div className="header-container absolute flex items-center w-full px-10 py-3">
+            <div className="header-container z-[200] absolute flex items-center w-full px-10 py-3">
                 <div className="logo-container size-fit">
                     <Link to="/Home">
                         <img src="../../public/logo.svg" alt="Logo da Fórmula E" className="w-44" />
                     </Link>
                 </div>
 
-                <nav className="mx-auto py-1 px-8 text-xl font-normal text-light-grey rounded-full bg-header-blue bg-opacity-65 backdrop-blur-[2px] border border-light-grey/60">
+                <nav className="mx-auto py-1 px-8 text-xl font-normal text-light-grey rounded-full bg-header-blue bg-opacity-55 backdrop-blur-[2px] border border-light-grey/40">
                     <ul className="flex gap-11">
                         {[
                             ['Notícias', '#'],
