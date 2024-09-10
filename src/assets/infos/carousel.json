@@ -3,23 +3,48 @@
 
 {
     "path": "/slide-show/carro-vermelho-audi.jpg", 
-    "alt": "imagem 1"
+    "alt": "imagem 1",
+    "title": "5 motivos para não perder a próxima corrida da Fórmula E",
+    "description": "O próximo E-PRIX vai rolar nos dias 25 e 26 de maio, em Shanghai",
+    "type": "Notícias",
+    "time": "6 min",
+    "button-text": "Ler Agora"
 },
 {
     "path": "/slide-show/carro-1.jpg", 
-    "alt": "imagem 2"
+    "alt": "imagem 2",
+    "title": "5 motivos para não perder a próxima corrida da Fórmula E",
+    "description": "O próximo E-PRIX vai rolar nos dias 25 e 26 de maio, em Shanghai",
+    "type": "Notícias",
+    "time": "6 min",
+    "button-text": "Ler Agora"
 },
 {
     "path": "/slide-show/carro-2.jpg", 
-    "alt": "imagem 3"
+    "alt": "imagem 3",
+    "title": "5 motivos para não perder a próxima corrida da Fórmula E",
+    "description": "O próximo E-PRIX vai rolar nos dias 25 e 26 de maio, em Shanghai",
+    "type": "Notícias",
+    "time": "6 min",
+    "button-text": "Ler Agora"
 },
 {
     "path": "/slide-show/carro-3.jpg", 
-    "alt": "imagem 4"
+    "alt": "imagem 4",
+    "title": "5 motivos para não perder a próxima corrida da Fórmula E",
+    "description": "O próximo E-PRIX vai rolar nos dias 25 e 26 de maio, em Shanghai",
+    "type": "Notícias",
+    "time": "6 min",
+    "button-text": "Ler Agora"
 },
 {
     "path": "/slide-show/carro-4.jpg", 
-    "alt": "imagem 5"
+    "alt": "imagem 5",
+    "title": "5 motivos para não perder a próxima corrida da Fórmula E",
+    "description": "O próximo E-PRIX vai rolar nos dias 25 e 26 de maio, em Shanghai",
+    "type": "Notícias",
+    "time": "6 min",
+    "button-text": "Ler Agora"
 }
 
 
