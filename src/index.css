@@ -13,6 +13,9 @@ html {
     font-variation-settings: "wdth" 100;
 }
 
+body{
+    background-color: #F4F4F4;
+}
 
 .liv{
     background-color: #03082d;

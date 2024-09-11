@@ -1,7 +1,7 @@
 import Carousel from "../components/carousel/Carousel";
-import carousel_infos from "../assets/infos/carousel.json";
+import carousel_infos from "../data/carousel.json";
 import Cards from "../components/cards/Cards";
-import cards_infos from "../assets/infos/cards.json";
+import cards_infos from "../data/cards.json";
 
 function Home() {
     return ( 
@@ -10,7 +10,7 @@ function Home() {
 
             <Carousel slider={carousel_infos} autoSlide={false} />
 
-            <div className="mx-auto mt-28 mb-6 text-5xl font-semibold flex justify-center">
+            <div className="mx-auto mt-28 mb-10 lg:text-5xl md:text-4xl sm:text-3xl font-semibold flex justify-center">
                 <h2>Descubra o Mundo da Formula E</h2>
             </div>
             
