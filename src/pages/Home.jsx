@@ -10,7 +10,7 @@ function Home() {
 
             <Carousel slider={carousel_infos} autoSlide={false} />
 
-            <div className="mx-auto mt-28 mb-10 lg:text-5xl md:text-4xl sm:text-3xl font-semibold flex justify-center">
+            <div className="mx-auto mt-28 mb-10 lg:text-4xl md:text-4xl sm:text-3xl font-semibold flex justify-center">
                 <h2>Descubra o Mundo da Formula E</h2>
             </div>
             
