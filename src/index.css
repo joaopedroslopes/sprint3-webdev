@@ -17,6 +17,29 @@ body{
     background-color: #F4F4F4;
 }
 
-.liv{
-    background-color: #03082d;
+.gradient{
+    background-image: linear-gradient(180deg,
+                hsl(240deg 100% 13%) 1%,
+                hsl(240deg 100% 16%) 35%,
+                hsl(240deg 100% 19%) 47%,
+                hsl(240deg 100% 23%) 55%,
+                hsl(240deg 100% 26%) 62%,
+                hsl(237deg 100% 31%) 68%,
+                hsl(234deg 100% 37%) 74%,
+                hsl(231deg 100% 43%) 82%,
+                hsl(228deg 100% 48%) 100%
+            );
+}
+
+/* Adicione este CSS ao seu arquivo de estilos */
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari, and Opera */
 }

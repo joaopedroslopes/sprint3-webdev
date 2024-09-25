@@ -3,8 +3,13 @@ function Cards(props) {
     const cards_props = props.cards_props;
 
     return ( 
-        <div className="flex justify-center items-center">
-            <div className="grid gap-6 xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 size-fit max-w-screen-2xl mx-10">
+        <div className="h-screen flex justify-center items-center flex-col">
+            <div className="mb-10 lg:text-4xl md:text-3xl font-semibold flex justify-center">
+                <h2>Descubra o Mundo da Formula E</h2>
+            </div>
+
+            
+            <div className="grid gap-6 xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 size-fit max-w-screen-2xl">
 
                 {cards_props.map(({ title, description, type, time, img }) => (
                     <div className="bg-white rounded-lg shadow-md w-[310px] h-[410px] lg:h-[330px] lg:w-[270px]">
@@ -28,6 +33,7 @@ function Cards(props) {
                 ))}
 
             </div>
+            
         </div>
      );
 }

@@ -1,0 +1,642 @@
+[
+    {
+        "country": "Mexico",
+        "flag": "mx",
+        "city": "Mexico City",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+    
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Arábia Saudita",
+        "flag": "sa",
+        "city": "Diriyah",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Arábia Saudita",
+        "flag": "sa",
+        "city": "Diriyah",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Brasil",
+        "flag": "br",
+        "city": "São Paulo",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Japão",
+        "flag": "jp",
+        "city": "Tokio",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Itália",
+        "flag": "it",
+        "city": "Misano",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Itália",
+        "flag": "it",
+        "city": "Misano",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Monaco",
+        "flag": "mc",
+        "city": "Monaco",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Alemanha",
+        "flag": "de",
+        "city": "Berlin",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Alemanha",
+        "flag": "de",
+        "city": "Berlin",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "China",
+        "flag": "cn",
+        "city": "Shanghai",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "China",
+        "flag": "cn",
+        "city": "Shanghai",
+        "date": "25 Maio 2024",
+        "img": "r11",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Estados Unidos",
+        "flag": "us",
+        "city": "Portland",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Estados Unidos",
+        "flag": "us",
+        "city": "Portland",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Reino Unido",
+        "flag": "gb",
+        "city": "Londres",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    },
+    {
+        "country": "Reino Unido",
+        "flag": "gb",
+        "city": "Londres",
+        "date": "13 Janeiro 2024",
+        "img": "r01",
+        "link_img": "https://fiaformulae.com/en/video/499562",
+
+        "positions": {
+            "firstPosition": {
+                "name": "Pascal",
+                "surname": "Wehrlein",
+                "team": "TAG Heuer Porsche Formula E Team",
+                "team_color": "porsche",
+                "time": "50:15:506"
+            },
+            "secondPosition": {
+                "name": "Sébastien",
+                "surname": "Buemi",
+                "team": "Envision Racing",
+                "team_color": "envision",
+                "time": "+ 0:01:162"
+            },
+            "thirdPosition": {
+                "name": "Nick",
+                "surname": "Cassidy",
+                "team": "Jaguar TCS Racing",
+                "team_color": "jaguar",
+                "time": "+ 0:02:079"
+            },
+            "fourthPosition": {
+                "name": "Maximilian",
+                "surname": "Günther",
+                "team": "Maserati MSG Racing",
+                "team_color": "maserati",
+                "time": "+ 0:05:780"
+            }
+        }
+        
+    }
+]
