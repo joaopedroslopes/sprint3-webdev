@@ -11,12 +11,12 @@ O projeto consiste em um site baseado em um modelo Figma. Junto com as ideias ge
 Utilizamos React + Vite e TailWind para estruturar o site, além de bibliotecas como react-feather e react-router-dom. 
 
 ## Instalação
-Na pasta do projeto:
+Este projeto é executado em Node.js. Em seu site você encontra instruções de como instalá-lo. Você também pode seguir esta essência para obter uma maneira rápida e fácil de instalar o Node.js e o npm.
 
-'''
-1. npm i
-2. npm run dev
-'''
+Depois de instalado, clone o repositório e instale suas dependências executando:
+
+$ npm install
+$ npm run dev
 
 ## Autores
 - João Pedro de Souza Lopes (RM 557993)
