@@ -17,6 +17,10 @@ Depois de instalado, clone o repositório e instale suas dependências executand
 
 ```
 $ npm install
+```
+
+E rode o projeto com:
+```
 $ npm run dev
 ```
 
