@@ -15,8 +15,10 @@ Este projeto é executado em Node.js. Em seu site você encontra instruções de
 
 Depois de instalado, clone o repositório e instale suas dependências executando:
 
+```
 $ npm install
 $ npm run dev
+```
 
 ## Autores
 - João Pedro de Souza Lopes (RM 557993)
