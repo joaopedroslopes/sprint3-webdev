@@ -15,6 +15,7 @@ export default {
         'hover-light-grey': '#ACACAC',
         'text-grey': '#A7A7A7',
         'line-blue': '#0024AD',
+        'cyan-e': '#00FFFF',
 
         'penske': '#cba65f',
         'cupra': '#194997',

@@ -23,13 +23,17 @@ function Calendar(props) {
     };
 
     return (
-        <>
+        <div className="z-[2]">
             <div ref={containerRef} className="h-[600px] w-full flex overflow-x-auto relative hide-scrollbar">
                 <div className="flex w-max" style={{ paddingLeft: "50%", paddingRight: "50%" }}>
 
                     {/* CARDS */}
                     {stats.map((race, index) => {
                         const { country, flag, city, date, img, positions } = race;
+
+                        const dateParts = date.split(' ');
+                        const day = dateParts[0];
+                        const month = dateParts[1];
 
                         return (
                             <div
@@ -40,6 +44,8 @@ function Calendar(props) {
                                 {selectedCard === index ? (
                                     <div className="h-full w-[600px] sm:w-[500px] md:w-[550px] lg:w-[600px]">
                                         <div className="h-full w-full flex justify-center items-center flex-col">
+
+                                            {/* conteudo secundario */}
 
                                             <div>
                                                 <div className="flex justify-center items-center gap-4">
@@ -81,13 +87,21 @@ function Calendar(props) {
                                     </div>
                                 ) : (
                                     <div className="h-fit w-[180px] sm:w-[140px] md:w-[160px] lg:w-[180px]">
+
                                         {/* conteudo principal */}
-                                        <div className="flex flex-col items-center gap-1 mx-auto -mt-40">
-                                            <div className="w-fit rounded-md overflow-hidden">
-                                                <span className={`fi fi-${flag} text-[45px] sm:text-[35px] md:text-[40px] lg:text-[45px]`}></span>
+                                        <div className="flex flex-col items-center gap-0 mx-auto -mt-40">
+                                            <div className="flex flex-col items-center gap-1">
+                                                <div className="w-fit rounded-md overflow-hidden">
+                                                    <span className={`fi fi-${flag} text-[45px] sm:text-[35px] md:text-[40px] lg:text-[45px]`}></span>
+                                                </div>
+                                                <h5 className="text-text-grey uppercase text-[12px] sm:text-[12px] md:text-[14px] lg:text-[16px]">{country}</h5>
                                             </div>
-                                            <h5 className="text-text-grey uppercase text-[12px] sm:text-[10px] md:text-[11px] lg:text-[12px]">{country}</h5>
+                                            <div className="flex flex-col items-center">
+                                                    <p className="text-light-grey uppercase text-[40px] font-semibold sm:text-[30px] md:text-[35px] lg:text-[40px]">{day}</p>
+                                                    <p className="text-text-grey uppercase font-light text-[14px] sm:text-[10px] md:text-[12px] lg:text-[14px] -mt-3">{month}</p>
+                                            </div>
                                         </div>
+
                                     </div>
                                 )}
 
@@ -103,7 +117,8 @@ function Calendar(props) {
 
             {/* linha azul horizontal */}
             <div className="bg-line-blue w-[97%] h-[1px] mx-auto"></div>
-        </>
+            
+        </div>
     );
 }
 

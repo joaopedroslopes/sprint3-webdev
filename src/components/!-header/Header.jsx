@@ -17,8 +17,8 @@ function Header() {
                     <ul className="flex gap-11">
                         {[
                             ['Notícias', '#'],
-                            ['Comunidade', '#'],
                             ['Estatísticas', '#'],
+                            ['Comunidade', '#'],
                             ['Equipes', '#']
                         ].map(([titulo, url]) => (
                             <li><Link to={url} className="hover:text-white ease-in-out duration-300">{titulo}</Link></li>
