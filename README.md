@@ -13,8 +13,10 @@ Utilizamos React + Vite e TailWind para estruturar o site, além de bibliotecas 
 ## Instalação
 Na pasta do projeto:
 
-1. $ npm i
-2. $ npm run dev
+'''
+1. npm i
+2. npm run dev
+'''
 
 ## Autores
 - João Pedro de Souza Lopes (RM 557993)
