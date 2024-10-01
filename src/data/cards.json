@@ -1,0 +1,58 @@
+[
+    {
+        "title": "As Cidades Mais Icônicas do Circuito da Fórmula E",
+        "description": "Conheça os circuitos urbanos mais desafiadores e emocionantes ao redor do mundo.",
+        "type": "Viagens",
+        "time": "5 min de leitura",
+        "img": "/slide-show/carro-1.jpg"
+    },
+    {
+        "title": "Como a Fórmula E Contribui para um Futuro Sustentável",
+        "description": "Explore as iniciativas ecológicas promovidas pela categoria e seu impacto no meio ambiente",
+        "type": "Sustentabilidade",
+        "time": "7 min de leitura",
+        "img": "/slide-show/carro-2.jpg"
+    },
+    {
+        "title": "Quem é Lucas Di Grassi?",
+        "description": "Conheça a história do primeiro brasileiro a entrar na Fórmula E",
+        "type": "Histórias",
+        "time": "7 min de leitura",
+        "img": "/slide-show/carro-3.jpg"
+    },
+    {
+        "title": "Regras e regulamentos da Fórmula E explicados",
+        "description": "Conheça as regras atualizadas da Fórmula E",
+        "type": "Explainer",
+        "time": "15 min de leitura",
+        "img": "/slide-show/carro-4.jpg"
+    },
+    {
+        "title": "Os campeões da Fórmula E",
+        "description": "Veja e conheça os campeões das últimas 9 temporadas da maior corrida de carros elétricos",
+        "type": "Histórias",
+        "time": "9 min de leitura",
+        "img": "/slide-show/carro-5.jpg"
+    },
+    {
+        "title": "Calendário da Temporada 11",
+        "description": "As corridas da Fórmula E em 2024/2025",
+        "type": "Notícias",
+        "time": "4 min de leitura",
+        "img": "/slide-show/carro-6.jpg"
+    },
+    {
+        "title": "As Equipes de Destaque na Temporada Atual da Fórmula E",
+        "description": " Uma análise das principais equipes e seus desempenhos na temporada mais recente",
+        "type": "Análise",
+        "time": "6 min de leitura",
+        "img": "/slide-show/carro-1.jpg"
+    },
+    {
+        "title": " Jean-Éric Vergne: O Bicampeão da Fórmula E",
+        "description": "A trajetória vitoriosa de um dos maiores pilotos da categoria elétrica",
+        "type": "Biografias",
+        "time": "8 min de leitura",
+        "img": "/slide-show/carro-2.jpg"
+    }
+]
